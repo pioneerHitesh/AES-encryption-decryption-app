@@ -1,6 +1,6 @@
 # encrypt_files
 
-A new Flutter project.
+Flutter app to encrypt and decrypt AES files.
 
 ## Getting Started
 
